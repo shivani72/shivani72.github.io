@@ -1,6 +1,14 @@
 .about_me:hover
 {
-	color: ##800000;
+	color: #800000;
 	cursor: pointer;
 transition: ease 1s;
 }
+.discover_me:hover
+{
+	color: #800000;
+	cursor: pointer;
+transition: ease 1s;
+}
+
+h1{ font-family: Palatino;}
