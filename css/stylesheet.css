@@ -1,0 +1,6 @@
+.about_me:hover
+{
+	color: #006400;
+cursor: pointer ;
+transition: ease 1s;
+}
