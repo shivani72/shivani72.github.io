@@ -12,6 +12,7 @@ transition: ease 1s;
 transition: ease 1s;
 }
 
+}
 div.background 
 {
 	background: url(http://i.imgur.com/smQVYlo.jpg);
@@ -21,7 +22,7 @@ div.background
 
 div.transbox
 {
-  margin: 20px;
+  margin: 50px;
   background-color: #ffffff;
   opacity:0.6;
 }
@@ -34,3 +35,4 @@ div.transbox p
 }
 
 h1{ font-family: fantasy;}
+
