@@ -1,3 +1,4 @@
+
 .about_me:hover
 {
 	color: #800000;
@@ -12,26 +13,24 @@ transition: ease 1s;
 transition: ease 1s;
 }
 
-.about:hover
-{
-	color: #800000;
-	cursor: pointer;
-transition: ease 1s;
-}
 
 div.background 
 {
 	background: url(http://i.imgur.com/smQVYlo.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-
 }
 
 div.transbox
 {
   margin: 50px;
   background-color: #ffffff;
-  opacity:0.6;
+  opacity:0.2;
+}
+
+.transbox:hover 
+{
+	opacity: 0.7;
 }
 
 div.transbox p
