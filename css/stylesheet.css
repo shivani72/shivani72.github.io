@@ -12,12 +12,19 @@ transition: ease 1s;
 transition: ease 1s;
 }
 
+.about:hover
+{
+	color: #800000;
+	cursor: pointer;
+transition: ease 1s;
 }
+
 div.background 
 {
 	background: url(http://i.imgur.com/smQVYlo.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
+
 }
 
 div.transbox
