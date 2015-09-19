@@ -4,11 +4,33 @@
 	cursor: pointer;
 transition: ease 1s;
 }
-.discover_me:hover
+
+.hi_shi:hover
 {
 	color: #800000;
 	cursor: pointer;
 transition: ease 1s;
 }
 
-h1{ font-family: Palatino;}
+div.background 
+{
+	background: url(http://i.imgur.com/smQVYlo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+div.transbox
+{
+  margin: 20px;
+  background-color: #ffffff;
+  opacity:0.6;
+}
+
+div.transbox p
+{
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+h1{ font-family: fantasy;}
